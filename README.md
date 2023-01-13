@@ -1,5 +1,5 @@
 # antiDDoS-test
-a simple network traffic generation script
+a simple script for network traffic generation 
 
 
 ### 
